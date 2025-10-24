@@ -3,6 +3,8 @@
 This notebook contains the first assignement of Image Processing and Computer Vision course of my Master's degree in AI at university of Bologna.
 In particular, this project uses techniques of image processing, so NO deep learning related, in order to recognize books from in store shelves.
 
+![Alt Text](Result.png)
+
 The core approach is a **feature-based object detection** pipeline, relying on robust feature extraction, efficient matching, and rigorous post-processing validation.
 
 ### 1. Feature Extraction and Matching

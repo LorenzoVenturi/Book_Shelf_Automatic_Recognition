@@ -32,7 +32,7 @@ A crucial component for detecting multiple identical books in a single scene:
 
 ---
 
-## 🛡️ Robustness and Validation Checks
+## Validation Checks
 
 To counteract the noise introduced by the high-sensitivity SIFT settings, every potential detection undergoes a rigorous validation sequence before being accepted:
 
